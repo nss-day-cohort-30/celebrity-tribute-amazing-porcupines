@@ -3,3 +3,9 @@ li {
     display: inline;
     padding: 5px 5px;
 }
+
+.news-feed-pics {
+    width: 25%;
+    justify-content: left;
+
+}
