@@ -17,7 +17,8 @@ li {
 }
 
 .familyPhotoFig {
-    width: 200px;
+    width: 250px;
+    flex-wrap: wrap;
 } 
 
 .topNavBar {
@@ -32,10 +33,14 @@ a {
     text-decoration: none;
 }
 
+.articles {
+    display: flex;
+    flex-direction: row; 
+}
 
 .news-feed-pics {
-    width: 25%;
-    justify-content: left;
+    width: 200px;
+    height: 200px;
 }
 
 .bottom_nav {
@@ -55,3 +60,12 @@ html * {
     font-family: "Comic Sans MS", "Comic Sans", cursive;
   }
 
+.footerimg {
+   width: 75px;
+   height: 75px;
+}
+
+.film_posters {
+    display: flex;
+    flex-direction: row;
+}
