@@ -3,3 +3,19 @@ li {
     display: inline;
     padding: 5px 5px;
 }
+
+.familyPhotoContainer{
+    display: flex;
+    flex-direction: row;
+}
+
+.familyImage {
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+    height: auto: 
+}
+
+.familyPhotoFig {
+    width: 200px;
+} 
