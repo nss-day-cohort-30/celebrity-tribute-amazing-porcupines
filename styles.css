@@ -13,7 +13,8 @@ li {
     display: flex;
     flex-direction: row;
     width: 200px;
-    height: auto; 
+    height: auto;
+    
 }
 
 .familyPhotoFig {
@@ -68,4 +69,14 @@ html * {
 .film_posters {
     display: flex;
     flex-direction: row;
+}
+
+iframe {
+    padding: 40px;
+}
+
+.dafoeTitle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
