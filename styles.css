@@ -13,13 +13,14 @@ li {
     display: flex;
     flex-direction: row;
     width: 200px;
-    height: auto: 
+    height: auto; 
 }
 
 .familyPhotoFig {
     width: 200px;
 } 
 
+<<<<<<< HEAD
 .topNavBar {
     display: flex;
     justify-content: space-around;
@@ -32,3 +33,10 @@ a {
     text-decoration: none;
 }
 
+=======
+
+.news-feed-pics {
+    width: 25%;
+    justify-content: left;
+}
+>>>>>>> master
