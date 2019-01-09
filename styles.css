@@ -25,3 +25,12 @@ li {
     width: 25%;
     justify-content: left;
 }
+
+body  {
+    background-image: url(background.jpg);
+    background-size:cover; }
+
+html * {
+    color:yellow;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+  }
