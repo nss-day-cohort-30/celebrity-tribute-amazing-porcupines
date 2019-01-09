@@ -25,7 +25,7 @@ li {
     justify-content: space-around;
     font-size: 1.5em;
     text-decoration: none;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid yellow;
 }
 
 a {
@@ -37,6 +37,14 @@ a {
     width: 25%;
     justify-content: left;
 }
+
+.bottom_nav {
+    border-top: 1px solid yellow;
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+}
+
 
 body {
     background-color: black; 
