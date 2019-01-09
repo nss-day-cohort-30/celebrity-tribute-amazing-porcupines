@@ -46,3 +46,11 @@ a {
 }
 
 
+body {
+    background-color: black; 
+}
+
+html * {
+    color:yellow;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+  }
