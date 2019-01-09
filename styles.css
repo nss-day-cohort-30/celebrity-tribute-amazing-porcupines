@@ -37,3 +37,12 @@ a {
     width: 25%;
     justify-content: left;
 }
+
+body {
+    background-color: black; 
+}
+
+html * {
+    color:yellow;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+  }
