@@ -69,3 +69,7 @@ html * {
     display: flex;
     flex-direction: row;
 }
+
+iframe {
+    padding: 40px;
+}
