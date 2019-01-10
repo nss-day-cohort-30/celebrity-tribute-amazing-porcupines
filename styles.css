@@ -70,3 +70,7 @@ html * {
     display: flex;
     flex-direction: row;
 }
+
+.checked {
+    color: orange;
+  }
