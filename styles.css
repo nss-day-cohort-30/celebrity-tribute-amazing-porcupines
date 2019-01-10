@@ -64,6 +64,7 @@ html * {
 .footerimg {
    width: 75px;
    height: 75px;
+   /* display: flex; */
 }
 
 .film_posters {
